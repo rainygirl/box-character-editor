@@ -17,7 +17,6 @@ box-character-editor 는 [01410.coroke.net](https://01410.coroke.net) 서비스 
 # 기여
 
 - Issue 에 자유로이 제안을 해주셔도 좋고, 직접 PR을 제안하셔도 좋습니다. 
-- 제안해주신 코드는 01410.coroke.net 서비스에 반영될 수 있습니다.
 
 # 라이센스
 
