@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>KSC5601 선 특수문자 선그리기 에디터</title>
+    <link rel="stylesheet" type="text/css" href="./editor.css" />
+</head>
+<body>
+<div class="canvas">
+    <div>
+        <textarea id="textarea"></textarea>
+        <div class="status">
+        <span class="pos">
+          &nbsp; &nbsp; 줄 <span id="row">1</span> 칸 <span id="column">1</span>
+        </span>
+            <span id="mode_draw">[그리기 @D ESC]</span>
+            <span id="mode_line">[굵게 @B]</span>
+            <span>[클립보드 복사 @S]</span>
+        </div>
+    </div>
+</div>
+</body>
+<script src="./editor.js"></script>
+</html>
