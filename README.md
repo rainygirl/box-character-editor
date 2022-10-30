@@ -1,6 +1,6 @@
 # box-character-editor
 
-box-character-editor 는 [01410.coroke.net](https://01410.coroke.net) 서비스 구현 과정에서 마련된, KSC5601 선 특수문자`─│┌┐┘└├┬┤┴┼`로 상자를 그릴 수 있는 웹 에디터 코드입니다.
+box-character-editor 는 [01410.coroke.net](https://01410.coroke.net) 서비스 구현 과정에서 마련된, KSC5601 선 특수문자`─│┌┐┘└├┬┤┴┼`로 상자를 그릴 수 있는 웹 에디터 코드입니다. 아래아한글 1.5 버전의 선그리기와 같은 방식으로 선 특수문자로 선 또는 사각형을 그릴 수 있습니다.
 
 # Screenshot
 
