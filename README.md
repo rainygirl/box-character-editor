@@ -2,6 +2,10 @@
 
 box-character-editor 는 [01410.coroke.net](https://01410.coroke.net) 서비스 구현 과정에서 마련된, KSC5601 선 특수문자`─│┌┐┘└├┬┤┴┼`로 상자를 그릴 수 있는 웹 에디터 코드입니다.
 
+# Screenshot
+
+![-](https://user-images.githubusercontent.com/1021138/198879386-8b9c99a9-d93a-4d46-b7a1-31675ae97d62.png)
+
 # 기술 사양
 
 - HTML & CSS & JavaScript (Bundler 없음)
